@@ -20,6 +20,5 @@ function esNumeroPrimo(numero) {
 
 }
 const resultado = esNumeroPrimo(1);
-console.log(resultado);
 
 module.exports = esNumeroPrimo;

@@ -10,6 +10,5 @@ function tienenMismaLongitud(str1, str2) {
   }
 }
 const resultado = tienenMismaLongitud("Buenas", "Hola")
-console.log(resultado);
 
 module.exports = tienenMismaLongitud;

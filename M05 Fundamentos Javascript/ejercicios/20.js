@@ -10,6 +10,5 @@ function esVocal(letra) {
   }
 }
 const resultado = esVocal("a");
-console.log(resultado);
 
 module.exports = esVocal;
